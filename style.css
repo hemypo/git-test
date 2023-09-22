@@ -4,5 +4,9 @@
 }
 
 header{
-    background-color: orange;
+    background-color: blue;
+}
+
+.random {
+    font-size: 30px;
 }
