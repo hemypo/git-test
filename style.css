@@ -2,9 +2,7 @@
     margin: 0;
     padding: 9;
 }
-html{
-    font-size: 20px;
-}
+
 header{
-    background-color: green;
+    background-color: orange;
 }
